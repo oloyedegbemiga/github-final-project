@@ -4,7 +4,7 @@
 
 **Input:**  
 
-  &nbsp; &nbsp; &nbsp; &nbsp; p, principal amount
+  &nbsp; &nbsp; &nbsp; &nbsp; p, principal amount  
   &nbsp; &nbsp; &nbsp; &nbsp; t, time period in years  
   &nbsp; &nbsp; &nbsp; &nbsp; r, annual rate of interest  
   
