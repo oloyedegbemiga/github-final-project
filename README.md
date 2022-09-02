@@ -4,4 +4,4 @@
 
 **Input:**  
 
-  p, principal amount
+  &nbsp; p, principal amount
